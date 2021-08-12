@@ -1,6 +1,6 @@
 # CS50W Project 2 - Commerce
 
-An eBay-like e-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist.” This was Project 1 of HarvardX's [CS50W](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) course in 2021 and was built using Python, Django, CSS, HTML and Bootstrap.
+An eBay-like e-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist.” This was Project 2 of HarvardX's [CS50W](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) course in 2021 and was built using Python, Django, CSS, HTML and Bootstrap.
 
 
 # YouTube Video
